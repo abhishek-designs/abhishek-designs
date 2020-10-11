@@ -13,7 +13,9 @@ ___
 
 ## Connect with me:
 
-
+<a href="www.instagram.com/ui_buddy"><img src="instagram.png" height=30px width=30px alt="Instagram" align="left"/></a> 
+<a href="www.facebook.com/ui_buddy"><img src="facebook.png" height=30px width=30px alt="Facebook" align="left"/></a>
+<a href="www.twitter.com/@buddy_ui"><img src="twitter.png" height=30px width=30px alt="Twitter"/></a>
 <!--
 **abhishek-designs/abhishek-designs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
