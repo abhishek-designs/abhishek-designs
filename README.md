@@ -2,7 +2,7 @@
 
 ## About me:
 
-I'm a student following my passion towards web development especially 'web designing' and I'm eager to learn new technologies kinda used in this field. My goal is to keep ourselves updated on this platform and learn from the people and their experience. 
+I'm a student following my passion towards web development especially 'web designing' and I'm eager to learn new technologies kinda used in this field. My goal is to keep ourselves updated on this platform and learn from other people and their experience. 
 
 * 👨‍🎓 Currently a engineering student
 
