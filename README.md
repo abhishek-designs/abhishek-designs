@@ -1,4 +1,4 @@
-# Hi I'm Abhishek aka 'Ui Buddy' 👋
+# Hi I'm Abhishek 👋
 
 ## About me:
 
