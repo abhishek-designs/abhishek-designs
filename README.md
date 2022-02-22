@@ -6,7 +6,7 @@ I'm a student following my passion towards web development especially 'web desig
 
 * 👨‍🎓 Currently an engineering student
 
-* 💻 Currently learning web development
+* 💻 Serving as a freelance web developer
 
 * ⚡ Fun fact: '🎮 Video games are ❤'
 ___
