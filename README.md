@@ -4,7 +4,7 @@
 
 I'm a web developer following my passion towards web development especially frontend development and I'm eager to learn new technologies kinda used in this field. My goal is to keep ourselves updated on this platform and learn from other people and their experience. 
 
-* 👨🏿‍💻 Currently an software engineer
+* 👨🏿‍💻 Currently an frontend engineer
 
 * 💻 Serving as a frontend developer at kimberlite.ai
 
