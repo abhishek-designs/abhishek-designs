@@ -4,9 +4,9 @@
 
 I'm a web developer following my passion towards web development especially frontend development and I'm eager to learn new technologies kinda used in this field. My goal is to keep myself updated on this platform and learn from other people and their experience. 
 
-* 👨🏿‍💻 Currently a frontend engineer
+* 👨🏿‍💻 Currently a Fullstack Engineer
 
-* 💻 Serving as a frontend developer at kimberlite.ai
+* 💻 Serving as a Fullstack Developer at Chetu India Pvt. Ltd.
 
 * ⚡ Fun fact: '🎮 Video games are ❤'
 ___
